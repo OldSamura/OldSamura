@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OldSamura
-- 👀 I’m interested in traveles, games, GYM and read some books
+- 👀 I’m interested in travel, games, GYM and read some books
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
